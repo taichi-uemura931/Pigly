@@ -9,4 +9,4 @@
     <div class='wight_logs_heading'>
         <div class='wight_logs_heading target_weight'>
         <span>目標体重</span><br/>
-        <h2>{{$}}
+        <h2>

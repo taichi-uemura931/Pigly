@@ -6,5 +6,8 @@ use Illuminate\Http\Request;
 
 class WeightController extends Controller
 {
-    //
+    public function index()
+    {
+        return view('weight_logs');
+    }
 }
